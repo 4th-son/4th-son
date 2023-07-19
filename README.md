@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm michael ogozi</h1>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="center">A passionate frontend developer from Nigeria, i am currently an intern at IENERGYUP-INNOVATION LAB Nig Limited and Homechow.ca seeking for a permanent position in a reputable organization</h3>
 
 
