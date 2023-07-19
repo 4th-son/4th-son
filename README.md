@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React,javascript,CSS.**
 
-- - 👨‍💻 All of my projects are available at [https://github.com/4th-son]
+-  👨‍💻 All of my projects are available at [https://github.com/4th-son]
 
 - 📫 How to reach me **michealogozi@gmail.com**
 
