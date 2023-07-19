@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm michael ogozi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer from Nigeria, i am currently an intern at IENERGYUP-INNOVATION LAB Nig Limited and Homechow.ca seeking for a permanent position in a reputable organization</h3>
 
 - 🔭 I’m currently working on [gmail-clone.](https://github.com/4th-son/gmail-clone.)
 
