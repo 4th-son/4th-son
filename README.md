@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria, i am currently an intern at IENERGYUP-INNOVATION LAB Nig Limited and Homechow.ca seeking for a permanent position in a reputable organization</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [gmail-clone.](https://github.com/4th-son/gmail-clone.)
+- 🔭 I’m currently working on [Real Estate project.](https://github.com/4th-son/Real_estate_project)
 
 - 🌱 I’m currently learning **Python,React.js,MySQL**
 
