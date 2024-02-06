@@ -19,6 +19,7 @@
 <a href="https://twitter.com/@michaelogozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelogozi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-ogozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-ogozi" height="30" width="40" /></a>
 <a href="https://instagram.com/4th__son" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4th__son" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-ogozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="4th__son" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
