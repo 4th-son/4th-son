@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Ogozi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria, i am currently an intern at REAL BIZ DIGITAL seeking for a permanent position in a reputable organization</h3>
+<h3 align="center">A passionate full-stack developer from Nigeria, I am currently an intern at REAL BIZ DIGITAL seeking a permanent position in a reputable organization</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [Booking clone App.](https://github.com/4th-son/Real_estate_project)
